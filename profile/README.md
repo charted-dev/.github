@@ -1,12 +1,13 @@
 # charted
-> Free, open source, and reliable Helm Chart registry made in Go.
+> *Free, open source, and reliable Helm Chart registry made in Kotlin.*
 
-## What is charted-dev?
+## What is charted?
 This is the organization behind the **charted-server** software vendored by [Noelware](https://noelware.org).
 
 This project is made by [Noel](https://floofy.dev) and [Ice](https://winterfox.tech) to provide a reliable and in-cloud solution to hosting Helm Charts on the web without messing around with S3 or any other provider.
 
-**charted** is at the moment, closed-sourced due to be in heavy development, we will release the repositories once **charted** has reached the beta stage.
+## Projects
+- 📦 [charted-server](https://github.com/charted-dev/charted) — The server backend for **charted**.
 
 <!--
 ## Projects
