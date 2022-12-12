@@ -1,28 +1,13 @@
-# charted
-> *Free, open source, and reliable Helm Chart registry made in Kotlin.*
+<div align="center">
+  <img alt="Noel Trans Heart" src="https://cdn.floofy.dev/images/trans.png" />
+  <h2>Noelware Charts Platform</h2>
+</div>
 
-## What is charted?
-This is the organization behind the **charted-server** software vendored by [Noelware](https://noelware.org).
+**Noelware's Charts Platform** (code name: `charted`) is a free and open platform to reliably push your Helm Charts into the cloud without any effort on your part, well... except writing them!
 
-This project is made by [Noel](https://floofy.dev) and [Ice](https://winterfox.tech) to provide a reliable and in-cloud solution to hosting Helm Charts on the web without messing around with S3 or any other provider.
+The platform was created to have a [Docker Hub](https://hub.docker.com) like registry where anyone can post Helm Charts onto the cloud easily! ...without all the Docker Hub quirks like ratelimiting and whatnot.
+
+> **Note** At the moment, we have not open private testing just yet! Wait until Q1 or Q2 of 2023 where we plan to create a landing page on [charts.noelware.org](https://charts.noelware.org).
 
 ## Projects
 - 📦 [charted-server](https://github.com/charted-dev/charted) — The server backend for **charted**.
-
-<!--
-## Projects
-- 📦 [charted-server](https://github.com/charted-dev/charted) — The main server that is used by **Pak**.
-
-- 🧩 [Parcel](https://github.com/charted-dev/Parcel) — **CLI** service to connect your **charted-server** instance to your machine or on any CI/CD service.
-
-- 📮 [Pak](https://github.com/charted-dev/Pak) — Main frontend that is used in every instance of **charted-server** to visualise your packages.
-
-## How to support charted's development
-You can always sponsor [Noel](https://floofy.dev) (lead developer) on GitHub Sponsors: https://github.com/sponsors/auguwu
-
-In the future, we will provide a in-cloud solution to host **charted-server** onto the cloud without you configuring it if that's how you want to live your life.
-
-**Thanks for reading, and I hope you will enjoy using charted**
-
-~ **Noel**
--->
