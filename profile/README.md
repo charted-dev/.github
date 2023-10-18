@@ -10,5 +10,4 @@ The platform was created to have a [Docker Hub](https://hub.docker.com) like reg
 > **Note** At the moment, we have not open private testing just yet! Wait until Q1 or Q2 of 2023 where we plan to create a landing page on [charts.noelware.org](https://charts.noelware.org).
 
 ## Projects
-- 📦 [charted-server](https://github.com/charted-dev/charted) — The server backend for charted
-- 🐻‍❄️🎨 [hoshi](https://github.com/charted-dev/hoshi) — Web interface to interact with **charted-server**
+- 🐻‍❄️📦 [charted-server](https://github.com/charted-dev/charted) — The server backend for charted
