@@ -7,4 +7,4 @@
 - [📦 `charted-server`](https://github.com/charted-dev/charted): Main application of charted, hosts the API server.
 - [💌 `emails`](https://github.com/charted-dev/emails): gRPC server to send emails with a variety of resolvers to resolve common templates.
 - [✨ `Hoshi`](https://github.com/charted-dev/hoshi): Web application made in Vue and Vite to have a frontend to the main API server.
-- [⚙️ `TestKit`](https://github.com/charted-dev/testkit): **TestKit** is a Rust-based testing framework for HTTP-based services.
+- [🦋 `TestKit`](https://github.com/charted-dev/testkit): **TestKit** is a Rust-based testing framework for HTTP-based services.
